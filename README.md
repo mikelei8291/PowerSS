@@ -1,2 +1,2 @@
 # PowerSS
-A powerful front end of shadowsocks manyuser that contains the advantages of ss-panel and moeSS
+A powerful front end of shadowsocks manyuser
